@@ -20,7 +20,7 @@ We also treat **Explainable Coding** as a cross-cutting dimension, tracing its d
 This repository provides categorized papers, datasets, benchmarks, evaluation metrics, and related resources for researchers interested in AMC, clinical NLP, medical coding, and LLM-based clinical reasoning.
 
 <p align="center">
-  <img src="overview_final.png" alt="Overview of Automated Medical Coding in the Era of LLMs" width="900">
+  <img src="overview.png" alt="Overview of Automated Medical Coding in the Era of LLMs" width="900">
 </p>
 
 <p align="center">
