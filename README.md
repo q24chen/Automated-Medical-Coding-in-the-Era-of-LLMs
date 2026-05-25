@@ -27,6 +27,24 @@ This repository provides categorized papers, datasets, benchmarks, evaluation me
   <em>Overview of our survey: from prediction-centric coding to knowledge-enhanced coding and reasoning-oriented coding, with explainability as a cross-cutting dimension.</em>
 </p>
 
+## Table of Contents
+
+- [Overview](#overview)
+- [Taxonomy](#taxonomy)
+- [Related Surveys and Benchmarks](#related-surveys-and-benchmarks)
+- [Paper List](#paper-list)
+  - [Prediction-Centric Coding](#prediction-centric-coding)
+  - [Knowledge-Enhanced Coding](#knowledge-enhanced-coding)
+  - [Reasoning-Oriented Coding](#reasoning-oriented-coding)
+  - [Explainable Coding](#explainable-coding)
+  - [Datasets and Evaluation](#datasets-and-evaluation)
+- [Datasets and Benchmarks](#datasets-and-benchmarks)
+  - [Standard Code-Prediction Benchmarks](#standard-code-prediction-benchmarks)
+  - [Evidence-Annotated Benchmarks](#evidence-annotated-benchmarks)
+  - [Multilingual and Non-English Benchmarks](#multilingual-and-non-english-benchmarks)
+- [Resources](#resources)
+- [Citation](#citation)
+
 
 ## Taxonomy
 
