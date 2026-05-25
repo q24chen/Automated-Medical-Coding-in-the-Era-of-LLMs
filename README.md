@@ -31,7 +31,7 @@ This repository provides categorized papers, datasets, benchmarks, evaluation me
 
 - [Overview](#overview)
 - [Taxonomy](#taxonomy)
-- [Related Surveys and Benchmarks](#related-surveys-and-benchmarks)
+- [Related Surveys, Benchmarks and Position Papers](#related-surveys-benchmarks-and-position-papers)
 - [Paper List](#paper-list)
   - [Prediction-Centric Coding](#prediction-centric-coding)
   - [Knowledge-Enhanced Coding](#knowledge-enhanced-coding)
@@ -73,7 +73,7 @@ Explainable coding is treated as a cross-cutting dimension across all paradigms.
 | Reasoning-Oriented Coding | Coding as retrieval, verification, and reasoning | LLM coding, RAG, verification, agentic workflows |
 | Explainable Coding | Making code assignments auditable | Attention, evidence spans, verification rationales |
 
-## Related Surveys and Benchmarks
+## Related Surveys, Benchmarks and Position Papers
 
 Automated Medical Coding (AMC) has been reviewed from several complementary perspectives. Early and general surveys summarize the development of automated ICD coding from rule-based systems and traditional machine learning to neural-network-based approaches, while also discussing common challenges such as large label spaces, imbalanced code distributions, long clinical documents, and interpretability. Other reviews focus on deep learning-based ICD coding, systematic literature analysis, benchmark construction, and reproducibility.
 
