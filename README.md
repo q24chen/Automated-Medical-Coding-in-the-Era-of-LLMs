@@ -42,8 +42,6 @@ This repository provides categorized papers, datasets, benchmarks, evaluation me
   - [Standard Code-Prediction Benchmarks](#standard-code-prediction-benchmarks)
   - [Evidence-Annotated Benchmarks](#evidence-annotated-benchmarks)
   - [Multilingual and Non-English Benchmarks](#multilingual-and-non-english-benchmarks)
-- [Resources](#resources)
-- [Citation](#citation)
 
 
 ## Taxonomy
