@@ -85,6 +85,7 @@ Compared with prior surveys, our survey focuses on the LLM era of automated medi
 | 2023 | TKDE                                | [A Review on Deep Neural Networks for ICD Coding](https://doi.org/10.1109/TKDE.2022.3148267) | Deep neural network methods                   |
 | 2023 | Expert Systems with Applications    | [AI-based ICD coding and classification approaches using discharge summaries: A systematic literature review](https://doi.org/10.1016/j.eswa.2022.118997) | Systematic review of discharge-summary coding |
 | 2023 | SIGIR                               | [Automated Medical Coding on MIMIC-III and MIMIC-IV: A Critical Review and Replicability Study](https://arxiv.org/abs/2304.10909) | Replicability and benchmark evaluation        |
+| 2022 | npj Digital Medicine                | [Automated clinical coding: what, why, and where we are?](https://doi.org/10.1038/s41746-022-00705-7) | Clinical workflow, explainability, and deployment challenges |
 | 2022 | Intelligent Medicine                | [A survey of automated International Classification of Diseases coding: development, challenges, and applications](https://doi.org/10.1016/j.imed.2022.03.003) | General ICD coding survey                     |
 | 2022 | EMNLP Demo                          | [AnEMIC: A Framework for Benchmarking ICD Coding Models](https://aclanthology.org/2022.emnlp-demos.11.pdf) | Benchmarking framework                        |
 
