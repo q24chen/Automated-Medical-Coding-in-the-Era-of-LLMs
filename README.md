@@ -133,6 +133,7 @@ Compared with prior surveys, our survey focuses on the LLM era of automated medi
 
 | Year | Venue                         | Title                                                        |
 | ---- | ----------------------------- | ------------------------------------------------------------ |
+| 2026 | EMNLP Findings                | [KREL: Automatic Medical Coding via Knowledge-Guided Reasoning over Clinical Evidence with LLMs](https://arxiv.org/abs/2608.20887) |
 | 2025 | IJCNLP-AACL Findings          | [ACE-ICD: Acronym Expansion As Data Augmentation for Automated ICD Coding](https://aclanthology.org/2025.findings-ijcnlp.102/) |
 | 2025 | ACL Findings                  | [A General Knowledge Injection Framework for ICD Coding](https://aclanthology.org/2025.findings-acl.374.pdf) |
 | 2025 | CCL                           | [Improving ICD Coding with Large Language Models via Disease Entity Recognition](https://aclanthology.org/2025.ccl-2.36.pdf) |
@@ -159,8 +160,10 @@ Compared with prior surveys, our survey focuses on the LLM era of automated medi
 
 | Year | Venue              | Title                                                        |
 | ---- | ------------------ | ------------------------------------------------------------ |
+| 2026 | EMNLP        | [Understanding the Limits of Agentic ICD Coding](https://arxiv.org/abs/2609.13806) |
+| 2026 | EMNLP Findings | [Can Post-Training Turn LLMs into Good Medical Coders? An Empirical Study of Generative ICD Coding](https://arxiv.org/abs/2606.13940) |
 | 2026 | ACL          | [ICDAGENT: Empowering Agentic Large Language Models for Explainable Medical Coding](https://aclanthology.org/2026.acl-long.643) |
-| 2026 | ACL Findings | [Travel on the ICD Tree: Benchmarking Agentic Reasoning for ICD Coding from Chinese Electronic Medical Records](https://aclanthology.org/2026.findings-acl.191) |
+| 2026 | EMNLP Findings | [KREL: Automatic Medical Coding via Knowledge-Guided Reasoning over Clinical Evidence with LLMs](https://arxiv.org/abs/2608.20887) |
 | 2026 | arXiv              | [Training a Large Language Model for Medical Coding Using Privacy-Preserving Synthetic Clinical Data](https://arxiv.org/abs/2603.23515v1) |
 | 2026 | arXiv              | [Symphony for Medical Coding: A Next-Generation Agentic System for Scalable and Explainable Medical Coding](https://arxiv.org/abs/2603.29709v1) |
 | 2026 | ACL Findings       | [MedDCR: Learning to Design Agentic Workflows for Medical Coding](https://arxiv.org/abs/2511.13361) |
@@ -210,6 +213,8 @@ Compared with prior surveys, our survey focuses on the LLM era of automated medi
 
 | Year | Venue       | Title                                                        |
 | ---- | ----------- | ------------------------------------------------------------ |
+| 2026 | EMNLP       | [Understanding the Limits of Agentic ICD Coding](https://arxiv.org/abs/2609.13806) |
+| 2026 | ACL Findings | [Travel on the ICD Tree: Benchmarking Agentic Reasoning for ICD Coding from Chinese Electronic Medical Records](https://aclanthology.org/2026.findings-acl.191) |
 | 2025 | EMNLP       | [RuCCoD: Towards Automated ICD Coding in Russian](https://aclanthology.org/2025.emnlp-main.129/) |
 | 2025 | ACL         | [Aligning AI Research with the Needs of Clinical Coding Workflows: Eight Recommendations Based on US Data Analysis and Critical Review](https://aclanthology.org/2025.acl-long.45.pdf) |
 | 2023 | ACL         | [MDACE: MIMIC Documents Annotated with Code Evidence](https://aclanthology.org/2023.acl-long.416.pdf) |
